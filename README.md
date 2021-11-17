@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou cursando Ciência da Computação na UFC.
 - 🌱 Estou apredendo C, C++, JavaScript, HTML, CSS... Várias coisas.
-- ⚡ Curiosidade: gosto de programar tanto back-end qunato fron-tend.
+- ⚡ Curiosidade: gosto de programar tanto back-end quanto fron-tend.
 - 🎶 Gosto de ouvir música enquanto programo.
 
 ##
