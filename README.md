@@ -4,6 +4,8 @@ Meu nome é Guilherme, tenho 21 anos e atualmente estou cursando Ciência da Com
 
 Estou sempre buscando aprender e atualizar meus conhecimentos, pois sei que a área de desenvolvimento é muito dinâmica e está em constante evolução. Sou uma pessoa dedicada e comprometida com meu trabalho, sempre buscando entregar o melhor resultado possível em meus projetos.
 
+##
+
 ### Tecnologias 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -17,6 +19,8 @@ Estou sempre buscando aprender e atualizar meus conhecimentos, pois sei que a á
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+##
 
 <table align="center">
   <tr>
