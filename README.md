@@ -6,6 +6,10 @@ Estou sempre buscando aprender e atualizar meus conhecimentos, pois sei que a á
 
 ### Tecnologias 
 
+![](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+
+
+
 <table align="center">
   <tr>
     <td width="55%" align="center">
