@@ -4,6 +4,8 @@ Meu nome é Guilherme, tenho 21 anos e atualmente estou cursando Ciência da Com
 
 Estou sempre buscando aprender e atualizar meus conhecimentos, pois sei que a área de desenvolvimento é muito dinâmica e está em constante evolução. Sou uma pessoa dedicada e comprometida com meu trabalho, sempre buscando entregar o melhor resultado possível em meus projetos.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescdev/)
+
 ##
 
 ### Tecnologias 
