@@ -6,17 +6,23 @@ Tenho focado meus estudos nas principais tecnologias da stack Salesforce (**LWC,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescdev/)
 
+##
+
 ### 🧠 Salesforce  
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
 ![LWC](https://img.shields.io/badge/LWC-0096D6?style=for-the-badge&logo=lightning&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=database&logoColor=white)
 
+##
+
 ### 🛠️ Conceitos e Ferramentas  
 ![POO](https://img.shields.io/badge/POO-303030?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-000000?style=for-the-badge&logo=codewars&logoColor=white)
 ![Estrutura de Dados](https://img.shields.io/badge/Estrutura%20de%20Dados-00599C?style=for-the-badge&logo=data&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+##
 
 ### 🔙 Back-End  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
