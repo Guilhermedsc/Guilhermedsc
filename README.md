@@ -8,8 +8,8 @@ Tenho focado meus estudos nas principais tecnologias da stack Salesforce (**LWC,
 
 ##
 
-### 🧠 Salesforce  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
+### 🧠 Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-0096D6?style=for-the-badge&logo=lightning&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=database&logoColor=white)
