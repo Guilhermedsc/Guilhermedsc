@@ -9,11 +9,12 @@ Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pe
 ##
 
 ### 🧠 Salesforce
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-0096D6?style=for-the-badge&logo=lightning&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=database&logoColor=white)
-![SOSL](https://img.shields.io/badge/SOSL-00A1E0?style=for-the-badge&logo=database&logoColor=white)
+
+![Salesforce](https://img.shields.io/badge/Salesforce-0A66C2?style=for-the-badge&logo=none&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-0A66C2?style=for-the-badge&logo=none&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0A66C2?style=for-the-badge&logo=none&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-0A66C2?style=for-the-badge&logo=none&logoColor=white)
+![SOSL](https://img.shields.io/badge/SOSL-0A66C2?style=for-the-badge&logo=none&logoColor=white)
 
 ##
 
